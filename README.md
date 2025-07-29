@@ -135,8 +135,6 @@ personal home for his self."</p></li><br>
 STRUGGLE</strong> and <strong>SACRIFICE.</strong>"</p>
 </li><br><hr>
 </ul>
-
-
 </body>
 </html>
 
